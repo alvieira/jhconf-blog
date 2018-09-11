@@ -80,3 +80,4 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [Setting up Continuous Integration]: https://www.jhipster.tech/documentation-archive/v5.0.2/setting-up-ci/
 
 [Gatling]: http://gatling.io/
+# jhconf-blog
